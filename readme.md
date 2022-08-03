@@ -7,4 +7,4 @@ A website for users to post their blogs on daily basis. The Database is connecte
     EJS
     Mongoose
 
-![] (image/screenshot.png)
+![](image/screenshot.png)
